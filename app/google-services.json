@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "605388547009",
+    "firebase_url": "https://snakejava-7ac36-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "snakejava-7ac36",
+    "storage_bucket": "snakejava-7ac36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605388547009:android:8007d72198bcf083fe0540",
+        "android_client_info": {
+          "package_name": "com.example.snakejava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605388547009-ifo37npb5hch02g61k54vka97jnlg1i7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-C7-yaKs0l1Wc9IsdP3gSXObqcp_euN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605388547009-ifo37npb5hch02g61k54vka97jnlg1i7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
